@@ -1,0 +1,15 @@
+{
+  "name": "clima_app",
+  "version": "1.0.0",
+  "description": "Aplicacion para obtener clima",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VG",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "yargs": "^11.0.0"
+  }
+}
